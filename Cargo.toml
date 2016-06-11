@@ -1,0 +1,6 @@
+[package]
+name = "vigenere"
+version = "0.1.0"
+authors = ["Ben Sima <bensima@gmail.com>"]
+
+[dependencies]
